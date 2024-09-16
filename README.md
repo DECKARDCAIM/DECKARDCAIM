@@ -1,13 +1,14 @@
-<h1 align="center">Hola 👋 es un placer saludarte, soy DECKARDCAIM ✨</h1> 
+<h1 align="center">Hola 👋 es un placer saludarte, soy DECKARDCAIM :smiling_imp:</h1> 
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
 
-<h2>ACERCA DE MÍ 😃</h2>
+<h2>ACERCA DE MÍ :heart:</h2>
 <p align="left"> 🎓 ESTUDIANTE DE INGENIERIA EN SISTEMAS Y CIENCNIAS DE LA COMPUTACIÓN </p
 
-<h3 align="center">MIS RECOMPENSAS</h3>
+<h3 align="center"></h3>
+<h3 align="center">MIS RECOMPENSAS:</h3>
 <p align="CENTER"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DECKARDCAIM&theme=dracula&column=8" alt="andermendoza" /></a> </p>
 
 </p>
