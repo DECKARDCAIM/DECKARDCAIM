@@ -5,7 +5,7 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
 
 <h2>ACERCA DE MÍ 😃</h2>
-<p align="left"> 🎓 ESTUDIANTE DE INGENIERIA EN SISTEMAS Y CIENCNIAS DE LA COMPUTACIÓN </p>
+<p align="left"> 🎓 ESTUDIANTE DE INGENIERIA EN SISTEMAS Y CIENCNIAS DE LA COMPUTACIÓN </p
 
 <h3 align="center">MIS RECOMPENSAS</h3>
 <p align="CENTER"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DECKARDCAIM&theme=dracula&column=8" alt="andermendoza" /></a> </p>
@@ -20,7 +20,7 @@
 
 
 
-<h2>GitHub :octocat:</h2>
+<h3  align="center">MIS ESTADISTICAS:</h3>
 <p align="center">
 <table align="left">
 <tr border="none">
