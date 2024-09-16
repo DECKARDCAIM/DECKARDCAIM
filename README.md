@@ -19,8 +19,6 @@
   </a>
 </p>
 
-
-
 <h3  align="center">MIS ESTADISTICAS:</h3>
 <p align="center">
 <table align="left">
