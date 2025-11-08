@@ -7,10 +7,13 @@
 <h2>ACERCA DE MÍ :heart:</h2>
 <p align="left"> 🎓 ESTUDIANTE DE INGENIERIA EN SISTEMAS Y CIENCNIAS DE LA COMPUTACIÓN </p
 
-<h3 align="center"></h3>
-<h3 align="center">MIS RECOMPENSAS:</h3>
-<p align="CENTER"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DECKARDCAIM&theme=dracula&column=8" alt="andermendoza" /></a> </p>
-[![trophy](https://github-profile-trophy.vercel.app/?username=DECKARDCAIM)](https://github.com/ryo-ma/github-profile-trophy)
+<h3 align="center" style="color: white;">MIS RECOMPENSAS:</h3>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=DECKARDCAIM&theme=dracula&column=8" alt="DECKARDCAIM" />
+  </a>
+</p>
+
 
 <!--
 </p>
