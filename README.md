@@ -9,8 +9,7 @@
 
 <h3 align="center" style="color: white;">MIS RECOMPENSAS:</h3>
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=DECKARDCAIM&theme=dracula&column=8" alt="DECKARDCAIM" />
+    <img src="https://github-trophies.vercel.app/?username=DECKARDCAIM&theme=dracula&column=6" alt="DECKARDCAIM" />
   </a>
 </p>
 
